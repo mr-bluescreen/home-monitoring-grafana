@@ -1,3 +1,8 @@
+# This is work in progress!!!
+# What's that
+This is a fork of Nilhcems great scripts. I will do an in depth tutorial on how to install everything from ground up so anyone with minimal previous knowledge can run these scripts.
+In addition I will show a way to combine MQTT with fabolous homebridge
+
 # Home sensor data monitoring with MQTT, InfluxDB and Grafana
 
 Blog post: [http://nilhcem.com/iot/home-monitoring-with-mqtt-influxdb-grafana](http://nilhcem.com/iot/home-monitoring-with-mqtt-influxdb-grafana)  
